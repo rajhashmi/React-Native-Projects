@@ -58,7 +58,7 @@
         result += characters.charAt(characterIndex)
       }
       return result
-      console.log("hitesh");
+
       
     }
 
